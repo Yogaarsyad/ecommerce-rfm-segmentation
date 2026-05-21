@@ -1,6 +1,8 @@
 # 🛒 E-Commerce Customer Segmentation (RFM Analysis)
 
 ## 📌 Deskripsi Proyek
+<img width="1739" height="903" alt="ecommerce-rfm-segmentation" src="https://github.com/user-attachments/assets/2136caa5-f6a1-4a2e-85b1-59e9f1310fea" />
+
 Proyek ini mengimplementasikan teknik RFM (Recency, Frequency, Monetary) untuk menganalisis perilaku pelanggan *e-commerce*. Tujuannya adalah mengidentifikasi segmen pelanggan bernilai tinggi dan memberikan rekomendasi strategis untuk meningkatkan retensi.
 
 ## 🛠️ Tech Stack
